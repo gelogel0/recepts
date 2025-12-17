@@ -1,0 +1,5 @@
+{
+  "name": "ContentChef AI",
+  "description": "A minimalist content factory dashboard for generating viral recipe videos using Gemini 3 Pro and n8n workflows.",
+  "requestFramePermissions": []
+}
